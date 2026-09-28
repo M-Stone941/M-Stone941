@@ -1,5 +1,4 @@
-##Computer Science graduate 
-##Graduated from Birkbeck, University of London July 2026 with Class 1 degree
+Computer Science graduate with Class 1 degree. Graduated July 2026 from Birkbeck, University of London .
 
 <!--
 **M-Stone941/M-Stone941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
